@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 int check(int n){
     int c=0;
     while(n>0){
