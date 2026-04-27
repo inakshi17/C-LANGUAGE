@@ -14,7 +14,7 @@ int main(){
     for(i=0;i<n;i++){
         printf("%d ",a[i]);
     }
-
+    printf("\n");
     printf("enter the number of element in second array :");
     scanf("%d",&m);
     b=(int*)malloc(m * sizeof(int));
