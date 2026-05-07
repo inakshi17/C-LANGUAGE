@@ -21,6 +21,7 @@ int main(){
         printf("salary - ");
         scanf("%d",&e[i].salary);
     }
+    
     int hra,bs,ta,ns=0,flag=0;
     printf("\nnet salary between 10000 to 20000 - \n");
     for(i=0;i<n;i++){
